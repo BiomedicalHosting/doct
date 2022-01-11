@@ -1,2 +1,2 @@
-# dot
+# doct
 Dictionary with attribute access (more like javascript objects)...
